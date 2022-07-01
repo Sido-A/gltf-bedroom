@@ -1,7 +1,7 @@
 import * as THREE from "three";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
 import { OrbitControls } from "./OrbitControls";
-import Bedroom from "./assets/bedroom.v2.gltf";
+import Bedroom from "./assets/bedroom.v3.gltf";
 
 const canvas = document.querySelector("#bedroom-gltf");
 const scene = new THREE.Scene();
